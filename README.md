@@ -1,0 +1,1 @@
+A simple web application that analyzes personal or small business financial data, generates automated reports, forecasts trends, and helps the user make more informed decisions about expenses, investments, or savings.
